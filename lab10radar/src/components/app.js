@@ -1,7 +1,6 @@
 import { Component } from 'preact';
 import { Router } from 'preact-router';
 import Helmet from 'preact-helmet';
-
 import Header from './header';
 import Home from '../routes/home';
 import { createApolloFetch } from 'apollo-fetch';

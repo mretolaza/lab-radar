@@ -1,8 +1,8 @@
 .dot {
-    width: 10px;
-    height: 10px;
+    width: 15px;
+    height: 15px;
     border-radius: 100%;
-    background-color: #6fbaec;
+    background-color: #BB4B9F;
     position: absolute;
     opacity: 1;
     transition: opacity 0.3s;
@@ -13,7 +13,7 @@
 }
 
 .user {
-    color: #6fbaec;
+    color: #C9B1FF;
     position: absolute;
 }
 
