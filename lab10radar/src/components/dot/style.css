@@ -1,0 +1,22 @@
+.dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: #6fbaec;
+    position: absolute;
+    opacity: 1;
+    transition: opacity 0.3s;
+}
+
+.dotFather {
+    position: absolute;
+}
+
+.user {
+    color: #6fbaec;
+    position: absolute;
+}
+
+.dot:hover {
+    opacity: 0.8;
+}
